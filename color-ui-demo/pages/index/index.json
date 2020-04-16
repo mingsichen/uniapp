@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+"basics": "/pages/basics/basics",
+"component": "/pages/component/component",
+"centerbtn": "/pages/centerbtn/centerbtn",
+"plugin": "/pages/plugin/plugin",
+"about": "/pages/about/about"
+  }
+}
